@@ -11,7 +11,7 @@ from flask import Flask
 nest_asyncio.apply()
 
 # ========================= CONFIG ==============================
-BOT_TOKEN = "8395409278:AAFXw8GMjYQp1DRkFOAkQUFtW0AvqG8GGqM"
+BOT_TOKEN = "8332008366:AAEKaGe1cj_EtDRerZK_AtqLvnSbaV5lVaY"
 CHANNEL_ID = -1002980186562
 
 # ========================= CAPTIONS ============================
