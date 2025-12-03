@@ -12,7 +12,7 @@ nest_asyncio.apply()
 
 # ========================= CONFIG ==============================
 BOT_TOKEN = "8332008366:AAEKaGe1cj_EtDRerZK_AtqLvnSbaV5lVaY"
-CHANNEL_ID = -1002980186562
+GROUP_ID  = -1003001378480
 
 # ========================= CAPTIONS ============================
 CAPTIONS = [
